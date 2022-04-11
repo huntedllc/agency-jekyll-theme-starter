@@ -43,22 +43,22 @@ en: &DEFAULT_EN
     events:
       - title: "Contact"
         year: ""
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        desc: "The prospecting process begins with identifying crucial abilities required to not only perform the role, but succeed in it. Then the search for the right candidate begins."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Evaluation"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: ""
+        desc: "After conducting a detailed search and finding 3-5 potential hires, the interview process begins. Hunted will serve as a liason for both sides and make known each parties needs."
         image: assets/img/timeline/2.jpg
         alt:
       - title: "Offer Extended"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        year: ""
+        desc: "When the right person with a solid cultural fit has been identified by the hiring manager, Hunted will assist in creating an offer that is both desireable and fair for both the company and candidate."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Placement"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        year: ""
+        desc: "Once an offer has been extended and accepted, Hunted will maintain contact with both parties to ensure satisfaction of work provided, cultural environment, and promises made."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -68,7 +68,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "Hunted is a brand new startup focusing in recruiting data scientists across all industries, offering low fees on a contigency basis."
     section: about
 
   clients:
