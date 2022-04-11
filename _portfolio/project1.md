@@ -1,18 +1,18 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/01-full.jpg
-alt: Shirts on a hanger
+title: Google
+subtitle: SE2 - Bleh
+image: assets/img/portfolio/google.png
+alt: DevOps Engineer
 
 caption:
-  title: Threads
-  subtitle: Illustration
-  thumbnail: assets/img/portfolio/01-thumbnail.jpg
+  title: Google
+  subtitle: DevOps Engineer
+  thumbnail: assets/img/portfolio/google.png
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Google currently is looking for a DevOps engineer.
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: March 12th, 2021
+- Client: Google
+- Category: DevOps Engineer
 
